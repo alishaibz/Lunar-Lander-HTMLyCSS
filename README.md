@@ -46,4 +46,5 @@ Per a la realització del projecte Lunar Landing (HTML i CSS) de l'assignatura *
 20. Edició del fitxer README.me del repositori **Lunar-Landing**.
 
 Nota 1: Em queda pendent la creació del github branch amb la versió minimificada i l'ús d'sprites, ja que per raons personals no m'ha donat temps.
+
 Nota 2: Sapiguent que em trobo fora del límit de lliuramente, només indico l'enllaç al [GitHub branch creat (mini)](https://github.com/alishaibz/Lunar-Landing/tree/mini) per saber si és això el que es demanava perquè encara no ho entès molt bé. Moltes gràcies i perdoni les molèsties.
