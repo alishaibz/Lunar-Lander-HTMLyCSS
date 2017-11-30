@@ -25,7 +25,7 @@ Per a la realització del projecte Lunar Landing (HTML i CSS) de l'assignatura *
 
 10. Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
-11. Unificació dels fitxers index-pc.html i index-mob.html en un sol (index.html), incloent 
+11. Unificació dels fitxers index-pc.html i index-mob.html en un sol (index.html), emprant media queries.
 
 12. Verificació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla.
 
