@@ -44,3 +44,5 @@ Per a la realització del projecte Lunar Landing (HTML i CSS) de l'assignatura *
 19. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Landing/master/index.html).
 
 20. Edició del fitxer README.me del repositori **Lunar-Landing**.
+
+Nota: Em queda pendent la creació del github branch amb la versió minimificada i l'ús d'sprites, ja que per raons personals no m'ha donat temps.
