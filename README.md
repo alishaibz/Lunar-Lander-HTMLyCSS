@@ -25,12 +25,22 @@ Per a la realització del projecte Lunar Landing (HTML i CSS) de l'assignatura *
 
 10. Validació dels fitxers .css al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
 
+11. Unificació dels fitxers index-pc.html i index-mob.html en un sol (index.html), incloent 
 
+12. Verificació del correcte funcionament i presentació del projecte provant la visualització amb diferentes mides de pantalla.
 
-10. Creació d'un nou repositori a Github, [**LMSGI02-CSS**](https://github.com/alishaibz/LMSGI02-CSS).
+13. Optimització del codi dels fitxers .html a la web [www.willpeavy.com/minifier/](https://www.willpeavy.com/minifier/) i creació dels corresponents fitxers .html optimitzats.
+
+14. Optimització del codi dels fitxers .css a la web [cssminifier.com/](https://cssminifier.com/) i creació dels corresponents fitxers .css optimitzats.
+
+15. Validació dels fitxers .html optimitzats al [validador web de HTML](https://validator.w3.org/), obtenint un resultat positiu.
+
+16. Validació dels fitxers .css optimitzats al [validador web de CSS](https://jigsaw.w3.org/css-validator/), obtenint un resultat positiu.
+
+17. Creació d'un nou repositori a Github, [**Lunar-Landing**](https://github.com/alishaibz/Lunar-Landing).
     
-11. Pujada dels arxius corresponents a la tasca (directoris "img" i "css" i fitxer .html) al nou repositori, **LMSGI02-CSS**.
+18. Pujada dels arxius corresponents a la tasca (directoris "img" i "css" i fitxers .html) al nou repositori, **Lunar-Landing**.
 
-12. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/LMSGI02-CSS/master/LMSGI02.html).
+19. Obtenció de [URL de Rawgit de la meva web](https://rawgit.com/alishaibz/Lunar-Landing/master/index.html).
 
-13. Edició del fitxer README.me del repositori **LMSGI02-CSS**.
+20. Edició del fitxer README.me del repositori **Lunar-Landing**.
