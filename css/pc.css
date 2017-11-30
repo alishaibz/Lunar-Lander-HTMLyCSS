@@ -1,0 +1,66 @@
+﻿html{background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:Arial, sans-serif;}
+
+body,html{height:100%;padding:0px;margin:0px}
+
+body{font-size:2vw;background-color: transparent;}
+
+.d{height:25%;width:100%;position:fixed;bottom:0px;
+    background-image: url("../img/luna.png");
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+.a{
+position: absolute;
+z-index: 1;
+top: 0;
+left: 0;
+margin-top: 15px;
+margin-left: 15px;
+width:25%;
+border-style: ridge;
+}
+
+.c{
+position: absolute;
+z-index: 1;
+top: 0;
+right: 0;
+margin-top: 15px;
+margin-right: 15px;
+width:25%;
+border: 1px solid #00FF00;
+}
+
+#nave{text-align:center;position:fixed;top:5%;width:100%;height:20%;z-index: -1;}
+
+#nave img{height:100%;}
+
+ul {list-style-type: none;margin: 0;padding: 0;font-size:100%;text-align: center;}
+
+.cp-titulo{background-color: #f1f1f1;color: black;font-weight: bold;}
+.m-titulo {background-color: #00FF00;font-weight: bold;}
+
+#cp-contenido{background-color: black;color: white;}
+#m-contenido{background-color: #f1f1f1;color: black;}
+
+a {display: block;text-decoration: none;color: black;width:100%;height:100%;}
+
+#m-contenido li{border-bottom: 1px solid #00FF00;}
+
+#m-contenido li:last-child{border-bottom: none;}
+
+#m-contenido li a:hover {background-color: #555;color: white;}
+
+#velocidad, #fuel, #altura {font-weight: bold;color: #00FF00;}
+
+
+#construccion{width:100%;margin-top:20px;text-align:center;font-size:4vw;color: white;}
+
+#acerca{width:80%;height:100%;margin-left:auto;margin-right:auto;font-size:3vw;text-align:justify;color: white;}
+
+#volver{width:100%;text-align:center;font-size:3vw;font-weight: bold;position: absolute; bottom: 10%;}
+#volver a{color: #FFC300;}
+#volver a:hover{color: #00FF00;}
