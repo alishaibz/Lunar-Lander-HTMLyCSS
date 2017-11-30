@@ -1,2 +1,3 @@
 # Lunar-Landing
-Lunar Landing (HTML y CSS)
+Lunar Landing (HTML i CSS)
+Versió minimitzada
